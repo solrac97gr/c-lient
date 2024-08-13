@@ -10,7 +10,7 @@ Make your life easier with C-lient, a command-line tool that helps you manage yo
 
 2. **Install the binary** using the provided `install.sh` script:
    ```bash
-   curl -LO https://github.com/solrac97gr/c-lient/releases/download/v1.0.0/c-lient-linux-amd64.tar.gz
-   tar -xzf c-lient-linux-amd64.tar.gz
+   curl -LO https://github.com/solrac97gr/c-lient/releases/download/v1.0.1/c-lient-linux-amd64.tar.gz
+   tar -xzf c-lient-linux-amd64.tar.gz c-lient
    cd c-lient
    sudo ./install.sh
