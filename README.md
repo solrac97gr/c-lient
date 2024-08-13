@@ -42,7 +42,7 @@ Make your life easier with C-lient, a command-line tool that helps you manage yo
     ```bash
     ./build/PROJECT_NAME
     ```
-6. ** Add new entity tool**
+6. **Add new entity tool**
     ```bash
     c-lient new-entity ENTITY_NAME
     ```
